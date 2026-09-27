@@ -8,6 +8,8 @@
 <br />
 <br />
 
+### Thoughtful software for the built environment.
+
 **Daniel Ol.** · BIM Developer at [Neobuilt](https://www.neo-built.com/) · BIM Specialist at Stegra · Gothenburg, Sweden
 
 I build software for architecture, engineering and construction, with a focus on BIM automation, model data exchange and real-time 3D. My background is in architectural engineering and BIM coordination on large industrial and healthcare projects.
