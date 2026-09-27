@@ -8,7 +8,7 @@
 <br />
 <br />
 
-### Thoughtful software for the built environment.
+### Thoughtful software for a more connected built environment.
 
 **Daniel Ol.**
 - BIM Specialist at Stegra
