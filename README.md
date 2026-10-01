@@ -19,7 +19,6 @@ At Stegra I work on BIM strategy, information standards and model data reporting
 <samp>
   <a href="https://www.neo-built.com/">neo-built.com</a> ·
   <a href="https://www.neo-built.com/prism">Paramora Prism</a> ·
-  <a href="https://github.com/danioliaei/Mohsen-oliaei-portfolio">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/daniol/">LinkedIn</a>
 </samp>
 
